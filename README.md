@@ -1,0 +1,2 @@
+# TechnicalRound
+Cards Pagination feature
